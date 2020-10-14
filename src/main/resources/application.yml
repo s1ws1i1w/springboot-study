@@ -2,4 +2,8 @@ spring:
   profiles:
     active: prod
 
-
+com:
+  zrt:
+    ad:
+      username: zzz
+      password: 123456
